@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[mpg:home|Door43 (mpg)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-mpg|d43-mpg repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-mpg/archive/master.zip|d43-mpg.zip]]
+
+**Recent Changes**
+{{changes>ns = mpg}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/mpg|Ethnologue data]]
+
